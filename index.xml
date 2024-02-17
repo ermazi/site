@@ -1,0 +1,60 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>纬度40°北</title>
+    <link>https://sre.wiki/</link>
+    <description>纬度40°北</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Mon, 26 Jun 2023 00:33:40 &#43;0800</lastBuildDate>
+      <atom:link href="https://sre.wiki/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+  <title>golang 库评</title>
+  <link>https://sre.wiki/posts/golang_repo/</link>
+  <pubDate>Mon, 26 Jun 2023 00:33:40 &#43;0800</pubDate>
+  <author>作者</author>
+  <guid>https://sre.wiki/posts/golang_repo/</guid>
+  <description><![CDATA[<blockquote>
+<p>好库短评</p>
+</blockquote>
+<ul>
+<li><a href="https://github.com/go-co-op/gocron"target="_blank" rel="external nofollow noopener noreferrer">gocron</a> =&gt; 好用的定时任务包, 支持分布式锁</li>
+<li><a href="https://github.com/ahmetb/go-linq"target="_blank" rel="external nofollow noopener noreferrer">go-linq</a> =&gt; linq for go, 做一些不是太复杂的数据处理(过滤/聚合等)</li>
+<li><a href="https://github.com/sourcegraph/conc"target="_blank" rel="external nofollow noopener noreferrer">conc</a> =&gt; 简练的并发包, 精简 and 高效(ver &gt; 1.18)</li>
+<li><a href="https://github.com/bytedance/gopkg"target="_blank" rel="external nofollow noopener noreferrer">gopkg</a> =&gt; 字节工具包, 各种效率/规范/高性能包</li>
+</ul>]]></description>
+</item>
+<item>
+  <title>nginx壹零壹之一</title>
+  <link>https://sre.wiki/posts/nginx_101_01/</link>
+  <pubDate>Mon, 26 Jun 2023 00:33:40 &#43;0800</pubDate>
+  <author>作者</author>
+  <guid>https://sre.wiki/posts/nginx_101_01/</guid>
+  <description><![CDATA[<blockquote>
+<p><code>听过</code> or <code>配过</code> or <code>用过</code> 的<code>彦祖们</code>会觉得: &ldquo;nginx 有啥好讲的, 不就是这样这样, 那样那样, 就能代理请求了嘛!&rdquo; 说得对! 这是他的核心功能之一, 确实翻翻文档 or 找找例子 or 问问GPT, 基本需求都能解决. 本文也就是记录一下用nginx满足的一些奇葩的需求, 基本都是些 常见的 or 基础的 用法.</p>
+</blockquote>]]></description>
+</item>
+<item>
+  <title>结构化思维</title>
+  <link>https://sre.wiki/posts/sre/</link>
+  <pubDate>Sun, 18 Jun 2023 14:57:24 &#43;0800</pubDate>
+  <author>作者</author>
+  <guid>https://sre.wiki/posts/sre/</guid>
+  <description><![CDATA[<h1 id="结构化思维">结构化思维</h1>
+<h2 id="结构思考力">结构思考力</h2>
+<p>核心理念:</p>
+<ul>
+<li>隐形思维显性化</li>
+<li>显性思维结构化</li>
+<li>结构思维呈现化</li>
+</ul>
+<p>万能公式模板:
+在____基础上, 我从___和___方面, 说明了____.</p>
+<p>第一步:识别, 识别信息中的事实和观点(理由,结论)
+第二步:判断, 判断事实和观点之间的对应关系, 画出结构图
+第三步:概括, 一句话概括所有内容</p>
+<h2 id="ch01">ch01</h2>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl"><span class="cp">#!/bin/bash
+</span></span></span><span class="line"><span class="cl"><span class="cp"></span>
+</span></span><span class="line"><span class="cl"><span class="nb">echo</span> <span class="s2">&#34;hello&#34;</span>
+</span></span></code></pre></div>]]></description>
+</item>
+</channel>
+</rss>

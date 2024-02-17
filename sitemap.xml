@@ -1,0 +1,17 @@
+<urlset
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml"
+  ><url>
+      <loc>https://sre.wiki/categories/</loc><lastmod>2023-06-26T00:33:40&#43;08:00</lastmod></url><url>
+      <loc>https://sre.wiki/tags/golang/</loc><lastmod>2023-06-26T00:33:40&#43;08:00</lastmod></url><url>
+      <loc>https://sre.wiki/posts/golang_repo/</loc><lastmod>2023-06-26T00:33:40&#43;08:00</lastmod></url><url>
+      <loc>https://sre.wiki/tags/nginx/</loc><lastmod>2023-06-26T00:33:40&#43;08:00</lastmod></url><url>
+      <loc>https://sre.wiki/posts/nginx_101_01/</loc><lastmod>2023-06-26T00:33:40&#43;08:00</lastmod></url><url>
+      <loc>https://sre.wiki/posts/</loc><lastmod>2023-06-26T00:33:40&#43;08:00</lastmod></url><url>
+      <loc>https://sre.wiki/tags/</loc><lastmod>2023-06-26T00:33:40&#43;08:00</lastmod></url><url>
+      <loc>https://sre.wiki/categories/%E6%8E%A5%E5%85%A5%E5%B1%82/</loc><lastmod>2023-06-26T00:33:40&#43;08:00</lastmod></url><url>
+      <loc>https://sre.wiki/categories/%E5%BC%80%E5%8F%91/</loc><lastmod>2023-06-26T00:33:40&#43;08:00</lastmod></url><url>
+      <loc>https://sre.wiki/</loc><lastmod>2023-06-26T00:33:40&#43;08:00</lastmod></url><url>
+      <loc>https://sre.wiki/tags/draft/</loc><lastmod>2023-06-18T14:57:24&#43;08:00</lastmod></url><url>
+      <loc>https://sre.wiki/categories/draft/</loc><lastmod>2023-06-18T14:57:24&#43;08:00</lastmod></url><url>
+      <loc>https://sre.wiki/posts/sre/</loc><lastmod>2023-06-18T14:57:24&#43;08:00</lastmod></url></urlset>
